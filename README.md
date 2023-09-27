@@ -1,2 +1,2 @@
 # wazuh-installation
-Wazuh installation step-by-step
+Installation step-by-step for Wazuh
